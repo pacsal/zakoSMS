@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">zakoSMS</string>
+    <string name="large_text_one">
+        "Karibu zakoSMS.\n\n"
+
+        "App hii inakusaidia kutuma SMS zako zinazoingia kwenye hii simu kwenda kwenye namba utakayoiwezesha hapo juu.\n\n"
+        "Unaweza pia kusitisha au kuruhusu app kutuma SMS kwenda kwenye hiyo namba utakayoiweka. "
+        "Kuweza kuona namba uliyoiweka, bonyeza kitufe cha pink chenye alama ya key-pad hapo juu. \n\n"
+
+        "Usisahau kushukuru kuhusu app hii na kuweka pongezi zako Play Store. Fanya hivyo kwa kutumia link ya rate app hii kwenye menu\n\n"
+    </string>
+    <string name="action_rate">Rate app hii</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
